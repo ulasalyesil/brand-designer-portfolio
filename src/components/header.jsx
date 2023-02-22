@@ -13,7 +13,7 @@ export default function Header() {
                     <li className="text-xs m-auto">WORK</li>
                     <li className="text-xs m-auto">CONTACT</li>
                 </ul>
-                <Button label="GET IN TOUCH"/>
+                <Button label="GET IN TOUCH" type={'secondary'}/>
             </ul>
         </div>
     </header>
